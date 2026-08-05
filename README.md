@@ -1,5 +1,5 @@
 
-# 🚑 Healthcare Analysis Dashboard (Power BI)
+# 🚑 Healthcare Analytics Dashboard (Power BI)
 
 An end-to-end **Business Intelligence** project built with **Power BI** to analyze over **55,500 healthcare records** from **10 major U.S. hospitals (2019–2024)**. This dashboard transforms raw healthcare data into actionable insights, helping stakeholders monitor patient trends, hospital performance, financial metrics, and operational efficiency through interactive visualizations.
 
