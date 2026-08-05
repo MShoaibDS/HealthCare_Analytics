@@ -51,24 +51,6 @@ The dashboard provides comprehensive insights into:
 | Microsoft Excel | Source Dataset |
 | Data Modeling | Relationship Management |
 
-# 📂 Repository Structure
-
-Healthcare-Analysis/
-│
-├── Healthcare_Analysis.pbix
-├── Healthcare_Dataset.xlsx
-├── Dashboard.pdf
-├── README.md
-└── Screenshots/
-    ├── Dashboard_Overview.png
-    ├── Hospital_Performance.png
-    ├── Billing_Analysis.png
-    └── Patient_Insights.png
-
-# 📸 Dashboard Preview
-
-> **Dashboard screenshots are available in the `Screenshots` folder.**
-
 # 🔗 Live Dashboard
 
 **Power BI Service**
@@ -115,9 +97,3 @@ Throughout this project, I strengthened my expertise in:
 - Converting complex healthcare data into meaningful business insights.
 - Delivering stakeholder-focused dashboards that support informed decision-making.
 
-
----
-
-## ⭐ Support
-
-If you found this project helpful or insightful, please consider giving it a ⭐ on GitHub. Your support is greatly appreciated!
